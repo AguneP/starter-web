@@ -4,6 +4,7 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
+	Pedro Agune e Rodrigues		pedroagune@hotmail.com		@0_0Mmajikes
 
 # THANKS
 
